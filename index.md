@@ -2,5 +2,5 @@
 
 
 # Quick links: 
-[Twitter](https://twitter.com/jaymzu)
-[LinkedIn](http://linkedin.com/in/jaymzu/)
+* [Twitter](https://twitter.com/jaymzu)
+* [LinkedIn](http://linkedin.com/in/jaymzu/)
